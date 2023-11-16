@@ -1,7 +1,7 @@
 import gplay from "google-play-scraper";
 import fss from "fs";
 
-// This example will return 3000 reviews
+// will return 3000 reviews
 // on a single call
 gplay.reviews({
   appId: 'my.com.tngdigital.ewallet',
